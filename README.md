@@ -1,6 +1,6 @@
  # CMSC508-Final
 
-cmsc508.com/202310/team34
+[cmsc508.com/202310/team34](cmsc508.com/202310/team34)
 
 This repository contains the work completed by my partner and I during the completion of our final project for CMSC508 - Database theory.
 
